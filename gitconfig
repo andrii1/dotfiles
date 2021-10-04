@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andrii.gorokhovskyi@gmail.com
+	name = Andrii Gorokhovskyi
